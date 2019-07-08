@@ -46,6 +46,7 @@
     <Compile Include="Admin.cs" />
     <Compile Include="FileReader.cs" />
     <Compile Include="Manager.cs" />
+    <Compile Include="PaySlip.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Staff.cs" />
