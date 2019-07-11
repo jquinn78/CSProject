@@ -35,7 +35,7 @@ namespace CSProject
 
         public override string ToString()
         {
-            return "\nName:" + NameOfStaff + "\nManager Hourly Rate:" + managerHourlyRate + "\nHours Worked:" + HoursWorked + "\nAdmin Basic Pay:" + BasicPay + "\nManager Total Pay:" + TotalPay;
+            return "\nName:" + NameOfStaff + "\nManager Hourly Rate:" + managerHourlyRate + "\nHours Worked:"  +HoursWorked + "\nManager Basic Pay:" + BasicPay + "\nAllowance:" + Allowance + "\nManager Total Pay:" + TotalPay;
         }
     }
 }
